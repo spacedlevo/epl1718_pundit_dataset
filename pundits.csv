@@ -1,0 +1,709 @@
+player,gameweek,away_team,home_team,results_home_goals,results_away_goals,predictions_home_goals,predictions_away_goals
+paul merson,1,leicester,arsenal,4,3,2,1
+paul merson,1,man city,brighton,0,2,0,4
+paul merson,1,burnley,chelsea,2,3,3,1
+paul merson,1,huddersfield,crystal palace,0,3,3,1
+paul merson,1,stoke,everton,1,0,2,0
+paul merson,1,west ham,man utd,4,0,2,0
+paul merson,1,tottenham,newcastle,0,2,0,3
+paul merson,1,swansea,southampton,0,0,1,1
+paul merson,1,liverpool,watford,3,3,0,3
+paul merson,1,bournemouth,west brom,1,0,2,1
+paul merson,2,watford,bournemouth,0,2,3,1
+paul merson,2,west brom,burnley,0,1,2,1
+paul merson,2,newcastle,huddersfield,1,0,1,1
+paul merson,2,brighton,leicester,2,0,3,0
+paul merson,2,crystal palace,liverpool,1,0,3,1
+paul merson,2,everton,man city,1,1,3,0
+paul merson,2,arsenal,stoke,1,0,1,3
+paul merson,2,man utd,swansea,0,4,0,2
+paul merson,2,chelsea,tottenham,1,2,1,1
+paul merson,2,west ham,southampton,3,2,1,0
+paul merson,3,man city,bournemouth,1,2,0,3
+paul merson,3,everton,chelsea,2,0,2,1
+paul merson,3,swansea,crystal palace,0,2,1,0
+paul merson,3,southampton,huddersfield,0,0,1,2
+paul merson,3,arsenal,liverpool,4,0,3,1
+paul merson,3,leicester,man utd,2,0,2,1
+paul merson,3,west ham,newcastle,3,0,0,2
+paul merson,3,burnley,tottenham,1,1,3,0
+paul merson,3,brighton,watford,0,0,2,0
+paul merson,3,stoke,west brom,1,1,1,0
+paul merson,4,bournemouth,arsenal,3,0,2,1
+paul merson,4,west brom,brighton,3,1,0,1
+paul merson,4,crystal palace,burnley,1,0,2,0
+paul merson,4,tottenham,everton,0,3,1,1
+paul merson,4,chelsea,leicester,1,2,1,2
+paul merson,4,liverpool,man city,5,0,3,2
+paul merson,4,watford,southampton,0,2,1,0
+paul merson,4,man utd,stoke,2,2,1,2
+paul merson,4,newcastle,swansea,0,1,2,0
+paul merson,4,huddersfield,west ham,2,0,2,1
+paul merson,5,brighton,bournemouth,2,1,2,1
+paul merson,5,arsenal,chelsea,0,0,3,0
+paul merson,5,southampton,crystal palace,0,1,1,1
+paul merson,5,leicester,huddersfield,1,1,1,2
+paul merson,5,burnley,liverpool,1,1,2,0
+paul merson,5,everton,man utd,4,0,3,0
+paul merson,5,stoke,newcastle,2,1,1,1
+paul merson,5,swansea,tottenham,0,0,3,0
+paul merson,5,man city,watford,0,6,0,3
+paul merson,5,west ham,west brom,0,0,1,0
+paul merson,6,west brom,arsenal,2,0,2,0
+paul merson,6,newcastle,brighton,1,0,1,1
+paul merson,6,huddersfield,burnley,0,0,2,0
+paul merson,6,bournemouth,everton,2,1,2,0
+paul merson,6,liverpool,leicester,2,3,1,2
+paul merson,6,crystal palace,man city,5,0,4,0
+paul merson,6,man utd,southampton,0,1,0,2
+paul merson,6,chelsea,stoke,0,4,1,3
+paul merson,6,watford,swansea,1,2,1,1
+paul merson,6,tottenham,west ham,2,3,1,3
+paul merson,7,leicester,bournemouth,0,0,2,1
+paul merson,7,brighton,arsenal,2,0,3,0
+paul merson,7,man city,chelsea,0,1,1,1
+paul merson,7,burnley,everton,0,1,2,0
+paul merson,7,tottenham,huddersfield,0,4,0,3
+paul merson,7,crystal palace,man utd,4,0,4,0
+paul merson,7,liverpool,newcastle,1,1,1,3
+paul merson,7,southampton,stoke,2,1,1,0
+paul merson,7,watford,west brom,2,2,1,0
+paul merson,7,swansea,west ham,1,0,2,0
+paul merson,8,everton,brighton,1,1,2,1
+paul merson,8,west ham,burnley,1,1,1,0
+paul merson,8,chelsea,crystal palace,2,1,0,1
+paul merson,8,west brom,leicester,1,1,2,0
+paul merson,8,man utd,liverpool,0,0,1,1
+paul merson,8,stoke,man city,7,2,3,0
+paul merson,8,newcastle,southampton,2,2,2,0
+paul merson,8,huddersfield,swansea,2,0,1,0
+paul merson,8,bournemouth,tottenham,1,0,3,0
+paul merson,8,arsenal,watford,2,1,1,2
+paul merson,9,watford,chelsea,4,2,2,1
+paul merson,9,arsenal,everton,2,5,1,3
+paul merson,9,man utd,huddersfield,2,1,0,2
+paul merson,9,burnley,man city,3,0,4,0
+paul merson,9,crystal palace,newcastle,1,0,1,1
+paul merson,9,west brom,southampton,1,0,0,0
+paul merson,9,bournemouth,stoke,1,2,2,1
+paul merson,9,leicester,swansea,1,2,2,1
+paul merson,9,liverpool,tottenham,4,1,3,2
+paul merson,9,brighton,west ham,0,3,1,0
+paul merson,10,chelsea,bournemouth,0,1,1,3
+paul merson,10,swansea,arsenal,2,1,3,0
+paul merson,10,southampton,brighton,1,1,2,1
+paul merson,10,newcastle,burnley,1,0,1,2
+paul merson,10,west ham,crystal palace,2,2,1,1
+paul merson,10,everton,leicester,2,0,1,1
+paul merson,10,huddersfield,liverpool,3,0,2,0
+paul merson,10,tottenham,man utd,1,0,1,1
+paul merson,10,stoke,watford,0,1,3,1
+paul merson,10,man city,west brom,2,3,0,2
+paul merson,11,man utd,chelsea,1,0,1,0
+paul merson,11,watford,everton,3,2,2,2
+paul merson,11,west brom,huddersfield,1,0,2,0
+paul merson,11,arsenal,man city,3,1,3,2
+paul merson,11,bournemouth,newcastle,0,1,2,1
+paul merson,11,burnley,southampton,0,1,1,0
+paul merson,11,leicester,stoke,2,2,1,1
+paul merson,11,brighton,swansea,0,1,2,0
+paul merson,11,crystal palace,tottenham,1,0,3,0
+paul merson,11,liverpool,west ham,1,4,1,3
+paul merson,12,huddersfield,bournemouth,4,0,2,0
+paul merson,12,tottenham,arsenal,2,0,1,1
+paul merson,12,stoke,brighton,2,2,2,1
+paul merson,12,swansea,burnley,2,0,1,0
+paul merson,12,everton,crystal palace,2,2,1,1
+paul merson,12,man city,leicester,0,2,1,3
+paul merson,12,southampton,liverpool,3,0,1,0
+paul merson,12,newcastle,man utd,4,1,2,0
+paul merson,12,west ham,watford,2,0,1,1
+paul merson,12,chelsea,west brom,0,4,1,2
+paul merson,13,arsenal,burnley,0,1,1,3
+paul merson,13,stoke,crystal palace,2,1,2,1
+paul merson,13,man city,huddersfield,1,2,0,4
+paul merson,13,chelsea,liverpool,1,1,1,1
+paul merson,13,brighton,man utd,1,0,3,0
+paul merson,13,watford,newcastle,0,3,1,2
+paul merson,13,everton,southampton,4,1,1,1
+paul merson,13,bournemouth,swansea,0,0,0,2
+paul merson,13,west brom,tottenham,1,1,3,0
+paul merson,13,leicester,west ham,1,1,1,3
+paul merson,14,burnley,bournemouth,1,2,2,0
+paul merson,14,huddersfield,arsenal,5,0,3,0
+paul merson,14,crystal palace,brighton,0,0,1,1
+paul merson,14,tottenham,leicester,2,1,1,1
+paul merson,14,man utd,watford,2,4,1,1
+paul merson,14,newcastle,west brom,2,2,2,0
+paul merson,14,swansea,chelsea,1,0,4,0
+paul merson,14,west ham,everton,4,0,2,0
+paul merson,14,southampton,man city,2,1,3,0
+paul merson,14,liverpool,stoke,0,3,1,3
+paul merson,15,southampton,bournemouth,1,1,1,2
+paul merson,15,man utd,arsenal,1,3,2,1
+paul merson,15,liverpool,brighton,1,5,0,2
+paul merson,15,newcastle,chelsea,3,1,3,0
+paul merson,15,huddersfield,everton,2,0,2,0
+paul merson,15,burnley,leicester,1,0,2,1
+paul merson,15,west ham,man city,2,1,4,0
+paul merson,15,swansea,stoke,2,1,1,0
+paul merson,15,tottenham,watford,1,1,1,3
+paul merson,15,crystal palace,west brom,0,0,1,2
+paul merson,16,watford,burnley,1,0,1,0
+paul merson,16,bournemouth,crystal palace,2,2,2,1
+paul merson,16,brighton,huddersfield,2,0,1,1
+paul merson,16,everton,liverpool,1,1,2,0
+paul merson,16,man city,man utd,1,2,2,2
+paul merson,16,leicester,newcastle,2,3,1,2
+paul merson,16,arsenal,southampton,1,1,1,3
+paul merson,16,west brom,swansea,1,0,1,0
+paul merson,16,stoke,tottenham,5,1,3,0
+paul merson,16,chelsea,west ham,1,0,1,3
+paul merson,17,stoke,burnley,1,0,2,0
+paul merson,17,watford,crystal palace,2,1,1,2
+paul merson,17,chelsea,huddersfield,1,3,0,2
+paul merson,17,bournemouth,man utd,1,0,3,1
+paul merson,17,man city,swansea,0,4,0,3
+paul merson,17,arsenal,west ham,0,0,1,3
+paul merson,17,west brom,liverpool,0,0,3,0
+paul merson,17,everton,newcastle,0,1,1,1
+paul merson,17,leicester,southampton,1,4,2,2
+paul merson,17,brighton,tottenham,2,0,4,0
+paul merson,18,liverpool,bournemouth,0,4,1,3
+paul merson,18,newcastle,arsenal,1,0,4,0
+paul merson,18,burnley,brighton,0,0,1,2
+paul merson,18,southampton,chelsea,1,0,3,0
+paul merson,18,swansea,everton,3,1,2,0
+paul merson,18,crystal palace,leicester,0,3,2,1
+paul merson,18,tottenham,man city,4,1,3,1
+paul merson,18,west ham,stoke,0,3,1,0
+paul merson,18,huddersfield,watford,1,4,2,0
+paul merson,18,man utd,west brom,1,2,0,2
+paul merson,19,liverpool,arsenal,3,3,2,1
+paul merson,19,watford,brighton,1,0,2,0
+paul merson,19,tottenham,burnley,0,3,1,3
+paul merson,19,chelsea,everton,0,0,0,3
+paul merson,19,man utd,leicester,2,2,0,2
+paul merson,19,bournemouth,man city,4,0,2,0
+paul merson,19,huddersfield,southampton,1,1,2,0
+paul merson,19,west brom,stoke,3,1,1,1
+paul merson,19,crystal palace,swansea,1,1,0,3
+paul merson,19,newcastle,west ham,2,3,2,0
+paul merson,20,west ham,bournemouth,3,3,2,1
+paul merson,20,brighton,chelsea,2,0,3,0
+paul merson,20,arsenal,crystal palace,2,3,2,3
+paul merson,20,stoke,huddersfield,1,1,2,0
+paul merson,20,swansea,liverpool,5,0,4,0
+paul merson,20,burnley,man utd,2,2,4,0
+paul merson,20,man city,newcastle,0,1,0,4
+paul merson,20,southampton,tottenham,5,2,3,0
+paul merson,20,leicester,watford,2,1,1,2
+paul merson,20,everton,west brom,0,0,1,2
+paul merson,21,everton,bournemouth,2,1,1,0
+paul merson,21,stoke,chelsea,5,0,3,0
+paul merson,21,man city,crystal palace,0,0,1,5
+paul merson,21,burnley,huddersfield,0,0,2,1
+paul merson,21,leicester,liverpool,2,1,4,1
+paul merson,21,southampton,man utd,0,0,4,0
+paul merson,21,brighton,newcastle,0,0,2,1
+paul merson,21,swansea,watford,1,2,3,0
+paul merson,21,arsenal,west brom,1,1,1,3
+paul merson,22,chelsea,arsenal,2,2,1,3
+paul merson,22,bournemouth,brighton,2,2,1,1
+paul merson,22,liverpool,burnley,1,2,0,2
+paul merson,22,man utd,everton,0,2,0,1
+paul merson,22,huddersfield,leicester,3,0,3,1
+paul merson,22,watford,man city,3,1,4,0
+paul merson,22,crystal palace,southampton,1,2,0,2
+paul merson,22,newcastle,stoke,0,1,2,0
+paul merson,22,tottenham,swansea,0,2,0,3
+paul merson,22,west brom,west ham,2,1,2,1
+paul merson,22,west ham,tottenham,1,1,3,1
+paul merson,23,arsenal,bournemouth,2,1,2,1
+paul merson,23,leicester,chelsea,0,0,2,0
+paul merson,23,burnley,crystal palace,1,0,2,1
+paul merson,23,west ham,huddersfield,1,4,2,1
+paul merson,23,man city,liverpool,4,3,2,1
+paul merson,23,stoke,man utd,3,0,2,0
+paul merson,23,swansea,newcastle,1,1,1,0
+paul merson,23,everton,tottenham,4,0,2,0
+paul merson,23,southampton,watford,2,2,1,1
+paul merson,23,brighton,west brom,2,0,2,0
+paul merson,24,crystal palace,arsenal,4,1,1,2
+paul merson,24,chelsea,brighton,0,4,0,1
+paul merson,24,man utd,burnley,0,1,0,2
+paul merson,24,west brom,everton,1,1,1,0
+paul merson,24,watford,leicester,2,0,2,0
+paul merson,24,newcastle,man city,3,1,3,0
+paul merson,24,tottenham,southampton,1,1,0,3
+paul merson,24,huddersfield,stoke,2,0,1,0
+paul merson,24,liverpool,swansea,1,0,0,2
+paul merson,24,bournemouth,west ham,1,1,2,1
+paul merson,25,liverpool,huddersfield,0,3,0,3
+paul merson,25,arsenal,swansea,3,1,0,2
+paul merson,25,crystal palace,west ham,1,1,1,2
+paul merson,25,bournemouth,chelsea,0,3,3,1
+paul merson,25,leicester,everton,2,1,1,2
+paul merson,25,west brom,man city,3,0,3,0
+paul merson,25,burnley,newcastle,1,1,0,1
+paul merson,25,brighton,southampton,1,1,2,0
+paul merson,25,watford,stoke,0,0,2,0
+paul merson,25,man utd,tottenham,2,0,2,1
+paul merson,26,stoke,bournemouth,2,1,2,1
+paul merson,26,everton,arsenal,5,1,3,0
+paul merson,26,west ham,brighton,3,1,2,0
+paul merson,26,man city,burnley,1,1,0,3
+paul merson,26,newcastle,crystal palace,1,1,2,2
+paul merson,26,swansea,leicester,1,1,3,0
+paul merson,26,tottenham,liverpool,2,2,1,3
+paul merson,26,huddersfield,man utd,2,0,2,0
+paul merson,26,chelsea,watford,4,1,2,0
+paul merson,26,southampton,west brom,2,3,3,0
+paul merson,27,west brom,chelsea,3,0,3,0
+paul merson,27,crystal palace,everton,3,1,2,0
+paul merson,27,bournemouth,huddersfield,4,1,1,3
+paul merson,27,leicester,man city,5,1,3,0
+paul merson,27,man utd,newcastle,1,0,0,2
+paul merson,27,liverpool,southampton,0,2,1,2
+paul merson,27,brighton,stoke,1,1,2,1
+paul merson,27,burnley,swansea,1,0,2,0
+paul merson,27,arsenal,tottenham,1,0,2,2
+paul merson,27,watford,west ham,2,0,2,0
+paul merson,28,newcastle,bournemouth,2,2,2,1
+paul merson,28,man city,arsenal,0,3,1,3
+paul merson,28,swansea,brighton,4,1,2,0
+paul merson,28,southampton,burnley,1,1,1,1
+paul merson,28,tottenham,crystal palace,0,1,1,3
+paul merson,28,stoke,leicester,1,1,2,0
+paul merson,28,west ham,liverpool,4,1,3,0
+paul merson,28,chelsea,man utd,2,1,1,1
+paul merson,28,everton,watford,1,0,1,1
+paul merson,28,huddersfield,west brom,1,2,3,1
+paul merson,29,arsenal,brighton,2,1,2,1
+paul merson,29,everton,burnley,2,1,1,1
+paul merson,29,man utd,crystal palace,2,3,0,1
+paul merson,29,bournemouth,leicester,1,1,2,0
+paul merson,29,newcastle,liverpool,2,0,2,0
+paul merson,29,chelsea,man city,1,0,3,1
+paul merson,29,stoke,southampton,0,0,1,0
+paul merson,29,west ham,swansea,4,1,1,0
+paul merson,29,huddersfield,tottenham,2,0,4,0
+paul merson,29,west brom,watford,1,0,2,0
+paul merson,30,tottenham,bournemouth,1,4,1,2
+paul merson,30,watford,arsenal,3,0,2,0
+paul merson,30,crystal palace,chelsea,2,1,2,0
+paul merson,30,brighton,everton,2,0,1,0
+paul merson,30,swansea,huddersfield,0,0,1,2
+paul merson,30,liverpool,man utd,2,1,1,1
+paul merson,30,southampton,newcastle,3,0,2,0
+paul merson,30,man city,stoke,0,2,0,4
+paul merson,30,leicester,west brom,1,4,2,1
+paul merson,30,burnley,west ham,0,3,2,0
+paul merson,31,west brom,bournemouth,2,1,2,0
+paul merson,31,chelsea,burnley,1,2,2,1
+paul merson,31,crystal palace,huddersfield,0,2,1,2
+paul merson,31,watford,liverpool,5,0,3,0
+paul merson,31,everton,stoke,1,2,2,0
+paul merson,32,stoke,arsenal,3,0,3,0
+paul merson,32,leicester,brighton,0,2,1,1
+paul merson,32,tottenham,chelsea,1,3,2,1
+paul merson,32,liverpool,crystal palace,1,2,1,3
+paul merson,32,man city,everton,1,3,0,2
+paul merson,32,swansea,man utd,2,0,2,0
+paul merson,32,huddersfield,newcastle,1,0,2,0
+paul merson,32,southampton,west ham,3,0,1,2
+paul merson,32,bournemouth,watford,2,2,2,1
+paul merson,32,burnley,west brom,1,2,0,1
+paul merson,33,crystal palace,bournemouth,2,2,1,2
+paul merson,33,southampton,arsenal,3,2,2,0
+paul merson,33,huddersfield,brighton,1,1,2,0
+paul merson,33,west ham,chelsea,1,1,2,0
+paul merson,33,liverpool,everton,0,0,1,0
+paul merson,33,newcastle,leicester,1,2,2,0
+paul merson,33,man utd,man city,2,3,1,0
+paul merson,33,tottenham,stoke,1,2,1,3
+paul merson,33,burnley,watford,1,2,1,1
+paul merson,33,swansea,west brom,1,1,1,2
+paul merson,34,leicester,burnley,2,1,2,1
+paul merson,34,brighton,crystal palace,3,2,2,0
+paul merson,34,watford,huddersfield,1,0,1,0
+paul merson,34,bournemouth,liverpool,3,0,3,1
+paul merson,34,west brom,man utd,0,1,5,0
+paul merson,34,arsenal,newcastle,2,1,2,2
+paul merson,34,chelsea,southampton,2,3,1,3
+paul merson,34,everton,swansea,1,1,1,0
+paul merson,34,man city,tottenham,1,3,3,1
+paul merson,34,stoke,west ham,1,1,2,1
+paul merson,35,man utd,bournemouth,0,2,1,2
+paul merson,35,west ham,arsenal,4,1,2,0
+paul merson,35,tottenham,brighton,1,1,1,3
+paul merson,35,newcastle,everton,1,0,1,2
+paul merson,35,southampton,leicester,0,0,2,1
+paul merson,35,swansea,man city,5,0,3,0
+paul merson,35,burnley,stoke,1,1,2,1
+paul merson,35,crystal palace,watford,0,0,1,2
+paul merson,35,liverpool,west brom,2,2,1,2
+paul merson,36,brighton,burnley,0,0,2,1
+paul merson,36,leicester,crystal palace,5,0,2,1
+paul merson,36,everton,huddersfield,0,2,0,1
+paul merson,36,stoke,liverpool,0,0,2,1
+paul merson,36,arsenal,man utd,2,1,3,0
+paul merson,36,west brom,newcastle,0,1,2,0
+paul merson,36,bournemouth,southampton,2,1,2,1
+paul merson,36,chelsea,swansea,0,1,1,1
+paul merson,36,watford,tottenham,2,0,4,0
+paul merson,36,man city,west ham,1,4,0,4
+mark lawrenson,1,leicester,arsenal,4,3,2,1
+mark lawrenson,1,man city,brighton,0,2,0,2
+mark lawrenson,1,burnley,chelsea,2,3,2,0
+mark lawrenson,1,huddersfield,crystal palace,0,3,1,1
+mark lawrenson,1,stoke,everton,1,0,2,0
+mark lawrenson,1,west ham,man utd,4,0,2,0
+mark lawrenson,1,tottenham,newcastle,0,2,0,2
+mark lawrenson,1,swansea,southampton,0,0,2,1
+mark lawrenson,1,liverpool,watford,3,3,1,1
+mark lawrenson,1,bournemouth,west brom,1,0,1,2
+mark lawrenson,2,watford,bournemouth,0,2,2,1
+mark lawrenson,2,west brom,burnley,0,1,1,1
+mark lawrenson,2,newcastle,huddersfield,1,0,1,1
+mark lawrenson,2,brighton,leicester,2,0,2,0
+mark lawrenson,2,crystal palace,liverpool,1,0,2,0
+mark lawrenson,2,everton,man city,1,1,2,0
+mark lawrenson,2,arsenal,stoke,1,0,0,2
+mark lawrenson,2,man utd,swansea,0,4,0,2
+mark lawrenson,2,chelsea,tottenham,1,2,2,0
+mark lawrenson,2,west ham,southampton,3,2,2,1
+mark lawrenson,3,man city,bournemouth,1,2,0,2
+mark lawrenson,3,everton,chelsea,2,0,2,0
+mark lawrenson,3,swansea,crystal palace,0,2,2,1
+mark lawrenson,3,southampton,huddersfield,0,0,1,1
+mark lawrenson,3,arsenal,liverpool,4,0,1,1
+mark lawrenson,3,leicester,man utd,2,0,3,1
+mark lawrenson,3,west ham,newcastle,3,0,3,0
+mark lawrenson,3,burnley,tottenham,1,1,2,0
+mark lawrenson,3,brighton,watford,0,0,2,1
+mark lawrenson,3,stoke,west brom,1,1,1,1
+mark lawrenson,4,bournemouth,arsenal,3,0,2,0
+mark lawrenson,4,west brom,brighton,3,1,1,1
+mark lawrenson,4,crystal palace,burnley,1,0,2,1
+mark lawrenson,4,tottenham,everton,0,3,0,2
+mark lawrenson,4,chelsea,leicester,1,2,1,1
+mark lawrenson,4,liverpool,man city,5,0,1,1
+mark lawrenson,4,watford,southampton,0,2,2,0
+mark lawrenson,4,man utd,stoke,2,2,0,2
+mark lawrenson,4,newcastle,swansea,0,1,2,0
+mark lawrenson,4,huddersfield,west ham,2,0,2,1
+mark lawrenson,5,brighton,bournemouth,2,1,2,0
+mark lawrenson,5,arsenal,chelsea,0,0,2,0
+mark lawrenson,5,southampton,crystal palace,0,1,2,1
+mark lawrenson,5,leicester,huddersfield,1,1,0,2
+mark lawrenson,5,burnley,liverpool,1,1,2,0
+mark lawrenson,5,everton,man utd,4,0,2,0
+mark lawrenson,5,stoke,newcastle,2,1,1,1
+mark lawrenson,5,swansea,tottenham,0,0,2,0
+mark lawrenson,5,man city,watford,0,6,0,3
+mark lawrenson,5,west ham,west brom,0,0,1,1
+mark lawrenson,6,west brom,arsenal,2,0,2,0
+mark lawrenson,6,newcastle,brighton,1,0,2,1
+mark lawrenson,6,huddersfield,burnley,0,0,2,1
+mark lawrenson,6,bournemouth,everton,2,1,2,2
+mark lawrenson,6,liverpool,leicester,2,3,1,2
+mark lawrenson,6,crystal palace,man city,5,0,3,0
+mark lawrenson,6,man utd,southampton,0,1,0,2
+mark lawrenson,6,chelsea,stoke,0,4,1,1
+mark lawrenson,6,watford,swansea,1,2,2,1
+mark lawrenson,6,tottenham,west ham,2,3,1,1
+mark lawrenson,7,leicester,bournemouth,0,0,2,1
+mark lawrenson,7,brighton,arsenal,2,0,2,0
+mark lawrenson,7,man city,chelsea,0,1,1,1
+mark lawrenson,7,burnley,everton,0,1,2,1
+mark lawrenson,7,tottenham,huddersfield,0,4,0,2
+mark lawrenson,7,crystal palace,man utd,4,0,3,0
+mark lawrenson,7,liverpool,newcastle,1,1,0,2
+mark lawrenson,7,southampton,stoke,2,1,2,1
+mark lawrenson,7,watford,west brom,2,2,1,0
+mark lawrenson,7,swansea,west ham,1,0,2,0
+mark lawrenson,8,everton,brighton,1,1,1,1
+mark lawrenson,8,west ham,burnley,1,1,1,1
+mark lawrenson,8,chelsea,crystal palace,2,1,0,2
+mark lawrenson,8,west brom,leicester,1,1,2,0
+mark lawrenson,8,man utd,liverpool,0,0,1,1
+mark lawrenson,8,stoke,man city,7,2,3,0
+mark lawrenson,8,newcastle,southampton,2,2,2,1
+mark lawrenson,8,huddersfield,swansea,2,0,2,0
+mark lawrenson,8,bournemouth,tottenham,1,0,2,0
+mark lawrenson,8,arsenal,watford,2,1,0,2
+mark lawrenson,9,watford,chelsea,4,2,2,0
+mark lawrenson,9,arsenal,everton,2,5,1,1
+mark lawrenson,9,man utd,huddersfield,2,1,0,2
+mark lawrenson,9,burnley,man city,3,0,3,0
+mark lawrenson,9,crystal palace,newcastle,1,0,2,1
+mark lawrenson,9,west brom,southampton,1,0,2,1
+mark lawrenson,9,bournemouth,stoke,1,2,1,1
+mark lawrenson,9,leicester,swansea,1,2,2,1
+mark lawrenson,9,liverpool,tottenham,4,1,1,1
+mark lawrenson,9,brighton,west ham,0,3,2,0
+mark lawrenson,10,chelsea,bournemouth,0,1,0,2
+mark lawrenson,10,swansea,arsenal,2,1,3,0
+mark lawrenson,10,southampton,brighton,1,1,1,1
+mark lawrenson,10,newcastle,burnley,1,0,1,2
+mark lawrenson,10,west ham,crystal palace,2,2,1,1
+mark lawrenson,10,everton,leicester,2,0,2,0
+mark lawrenson,10,huddersfield,liverpool,3,0,2,0
+mark lawrenson,10,tottenham,man utd,1,0,1,1
+mark lawrenson,10,stoke,watford,0,1,1,1
+mark lawrenson,10,man city,west brom,2,3,0,2
+mark lawrenson,11,man utd,chelsea,1,0,1,1
+mark lawrenson,11,watford,everton,3,2,2,0
+mark lawrenson,11,west brom,huddersfield,1,0,0,2
+mark lawrenson,11,arsenal,man city,3,1,2,0
+mark lawrenson,11,bournemouth,newcastle,0,1,1,1
+mark lawrenson,11,burnley,southampton,0,1,2,1
+mark lawrenson,11,leicester,stoke,2,2,1,1
+mark lawrenson,11,brighton,swansea,0,1,2,1
+mark lawrenson,11,crystal palace,tottenham,1,0,2,0
+mark lawrenson,11,liverpool,west ham,1,4,0,2
+mark lawrenson,12,huddersfield,bournemouth,4,0,2,0
+mark lawrenson,12,tottenham,arsenal,2,0,1,1
+mark lawrenson,12,stoke,brighton,2,2,0,2
+mark lawrenson,12,swansea,burnley,2,0,2,0
+mark lawrenson,12,everton,crystal palace,2,2,2,1
+mark lawrenson,12,man city,leicester,0,2,0,2
+mark lawrenson,12,southampton,liverpool,3,0,2,0
+mark lawrenson,12,newcastle,man utd,4,1,2,0
+mark lawrenson,12,west ham,watford,2,0,1,1
+mark lawrenson,12,chelsea,west brom,0,4,0,2
+mark lawrenson,13,arsenal,burnley,0,1,1,1
+mark lawrenson,13,stoke,crystal palace,2,1,1,2
+mark lawrenson,13,man city,huddersfield,1,2,0,2
+mark lawrenson,13,chelsea,liverpool,1,1,2,1
+mark lawrenson,13,brighton,man utd,1,0,2,0
+mark lawrenson,13,watford,newcastle,0,3,1,1
+mark lawrenson,13,everton,southampton,4,1,2,0
+mark lawrenson,13,bournemouth,swansea,0,0,0,2
+mark lawrenson,13,west brom,tottenham,1,1,2,0
+mark lawrenson,13,leicester,west ham,1,1,1,1
+mark lawrenson,14,burnley,bournemouth,1,2,1,1
+mark lawrenson,14,huddersfield,arsenal,5,0,3,0
+mark lawrenson,14,crystal palace,brighton,0,0,1,1
+mark lawrenson,14,tottenham,leicester,2,1,0,2
+mark lawrenson,14,man utd,watford,2,4,0,2
+mark lawrenson,14,newcastle,west brom,2,2,2,1
+mark lawrenson,14,swansea,chelsea,1,0,2,0
+mark lawrenson,14,west ham,everton,4,0,0,1
+mark lawrenson,14,southampton,man city,2,1,2,0
+mark lawrenson,14,liverpool,stoke,0,3,1,2
+mark lawrenson,15,southampton,bournemouth,1,1,0,2
+mark lawrenson,15,man utd,arsenal,1,3,1,1
+mark lawrenson,15,liverpool,brighton,1,5,0,2
+mark lawrenson,15,newcastle,chelsea,3,1,2,0
+mark lawrenson,15,huddersfield,everton,2,0,2,0
+mark lawrenson,15,burnley,leicester,1,0,1,1
+mark lawrenson,15,west ham,man city,2,1,3,0
+mark lawrenson,15,swansea,stoke,2,1,2,0
+mark lawrenson,15,tottenham,watford,1,1,1,2
+mark lawrenson,15,crystal palace,west brom,0,0,2,1
+mark lawrenson,16,watford,burnley,1,0,2,0
+mark lawrenson,16,bournemouth,crystal palace,2,2,2,1
+mark lawrenson,16,brighton,huddersfield,2,0,1,1
+mark lawrenson,16,everton,liverpool,1,1,2,0
+mark lawrenson,16,man city,man utd,1,2,2,1
+mark lawrenson,16,leicester,newcastle,2,3,2,1
+mark lawrenson,16,arsenal,southampton,1,1,1,1
+mark lawrenson,16,west brom,swansea,1,0,1,1
+mark lawrenson,16,stoke,tottenham,5,1,2,0
+mark lawrenson,16,chelsea,west ham,1,0,1,1
+mark lawrenson,17,stoke,burnley,1,0,2,0
+mark lawrenson,17,watford,crystal palace,2,1,2,1
+mark lawrenson,17,chelsea,huddersfield,1,3,0,2
+mark lawrenson,17,bournemouth,man utd,1,0,2,0
+mark lawrenson,17,man city,swansea,0,4,0,2
+mark lawrenson,17,arsenal,west ham,0,0,1,1
+mark lawrenson,17,west brom,liverpool,0,0,2,0
+mark lawrenson,17,everton,newcastle,0,1,1,1
+mark lawrenson,17,leicester,southampton,1,4,1,1
+mark lawrenson,17,brighton,tottenham,2,0,2,0
+mark lawrenson,18,liverpool,bournemouth,0,4,0,2
+mark lawrenson,18,newcastle,arsenal,1,0,3,0
+mark lawrenson,18,burnley,brighton,0,0,1,1
+mark lawrenson,18,southampton,chelsea,1,0,2,0
+mark lawrenson,18,swansea,everton,3,1,2,0
+mark lawrenson,18,crystal palace,leicester,0,3,2,0
+mark lawrenson,18,tottenham,man city,4,1,1,1
+mark lawrenson,18,west ham,stoke,0,3,1,1
+mark lawrenson,18,huddersfield,watford,1,4,2,0
+mark lawrenson,18,man utd,west brom,1,2,0,2
+mark lawrenson,19,liverpool,arsenal,3,3,2,2
+mark lawrenson,19,watford,brighton,1,0,2,0
+mark lawrenson,19,tottenham,burnley,0,3,0,2
+mark lawrenson,19,chelsea,everton,0,0,0,2
+mark lawrenson,19,man utd,leicester,2,2,0,2
+mark lawrenson,19,bournemouth,man city,4,0,3,0
+mark lawrenson,19,huddersfield,southampton,1,1,1,1
+mark lawrenson,19,west brom,stoke,3,1,1,1
+mark lawrenson,19,crystal palace,swansea,1,1,1,2
+mark lawrenson,19,newcastle,west ham,2,3,2,0
+mark lawrenson,20,west ham,bournemouth,3,3,1,1
+mark lawrenson,20,brighton,chelsea,2,0,2,0
+mark lawrenson,20,arsenal,crystal palace,2,3,1,1
+mark lawrenson,20,stoke,huddersfield,1,1,1,1
+mark lawrenson,20,swansea,liverpool,5,0,3,0
+mark lawrenson,20,burnley,man utd,2,2,2,0
+mark lawrenson,20,man city,newcastle,0,1,0,2
+mark lawrenson,20,southampton,tottenham,5,2,2,0
+mark lawrenson,20,leicester,watford,2,1,1,2
+mark lawrenson,20,everton,west brom,0,0,1,0
+mark lawrenson,21,everton,bournemouth,2,1,2,0
+mark lawrenson,21,stoke,chelsea,5,0,3,0
+mark lawrenson,21,man city,crystal palace,0,0,0,3
+mark lawrenson,21,burnley,huddersfield,0,0,1,0
+mark lawrenson,21,leicester,liverpool,2,1,2,0
+mark lawrenson,21,southampton,man utd,0,0,2,0
+mark lawrenson,21,brighton,newcastle,0,0,1,1
+mark lawrenson,21,swansea,watford,1,2,2,0
+mark lawrenson,21,arsenal,west brom,1,1,2,1
+mark lawrenson,22,chelsea,arsenal,2,2,2,1
+mark lawrenson,22,bournemouth,brighton,2,2,1,1
+mark lawrenson,22,liverpool,burnley,1,2,0,2
+mark lawrenson,22,man utd,everton,0,2,0,2
+mark lawrenson,22,huddersfield,leicester,3,0,2,0
+mark lawrenson,22,watford,man city,3,1,4,0
+mark lawrenson,22,crystal palace,southampton,1,2,1,0
+mark lawrenson,22,newcastle,stoke,0,1,2,1
+mark lawrenson,22,tottenham,swansea,0,2,0,3
+mark lawrenson,22,west brom,west ham,2,1,1,1
+mark lawrenson,22,west ham,tottenham,1,1,9,9
+mark lawrenson,23,arsenal,bournemouth,2,1,1,1
+mark lawrenson,23,leicester,chelsea,0,0,2,0
+mark lawrenson,23,burnley,crystal palace,1,0,1,2
+mark lawrenson,23,west ham,huddersfield,1,4,1,1
+mark lawrenson,23,man city,liverpool,4,3,1,1
+mark lawrenson,23,stoke,man utd,3,0,2,0
+mark lawrenson,23,swansea,newcastle,1,1,2,0
+mark lawrenson,23,everton,tottenham,4,0,2,0
+mark lawrenson,23,southampton,watford,2,2,1,1
+mark lawrenson,23,brighton,west brom,2,0,1,0
+mark lawrenson,24,crystal palace,arsenal,4,1,2,0
+mark lawrenson,24,chelsea,brighton,0,4,1,1
+mark lawrenson,24,man utd,burnley,0,1,0,2
+mark lawrenson,24,west brom,everton,1,1,1,1
+mark lawrenson,24,watford,leicester,2,0,2,0
+mark lawrenson,24,newcastle,man city,3,1,3,0
+mark lawrenson,24,tottenham,southampton,1,1,0,2
+mark lawrenson,24,huddersfield,stoke,2,0,2,0
+mark lawrenson,24,liverpool,swansea,1,0,0,2
+mark lawrenson,24,bournemouth,west ham,1,1,2,0
+mark lawrenson,25,liverpool,huddersfield,0,3,1,1
+mark lawrenson,25,arsenal,swansea,3,1,0,2
+mark lawrenson,25,crystal palace,west ham,1,1,1,1
+mark lawrenson,25,bournemouth,chelsea,0,3,2,0
+mark lawrenson,25,leicester,everton,2,1,0,2
+mark lawrenson,25,west brom,man city,3,0,3,0
+mark lawrenson,25,burnley,newcastle,1,1,1,1
+mark lawrenson,25,brighton,southampton,1,1,2,0
+mark lawrenson,25,watford,stoke,0,0,2,1
+mark lawrenson,25,man utd,tottenham,2,0,2,1
+mark lawrenson,26,stoke,bournemouth,2,1,1,1
+mark lawrenson,26,everton,arsenal,5,1,2,0
+mark lawrenson,26,west ham,brighton,3,1,2,1
+mark lawrenson,26,man city,burnley,1,1,0,2
+mark lawrenson,26,newcastle,crystal palace,1,1,2,0
+mark lawrenson,26,swansea,leicester,1,1,2,0
+mark lawrenson,26,tottenham,liverpool,2,2,1,1
+mark lawrenson,26,huddersfield,man utd,2,0,2,0
+mark lawrenson,26,chelsea,watford,4,1,0,2
+mark lawrenson,26,southampton,west brom,2,3,2,1
+mark lawrenson,27,west brom,chelsea,3,0,2,0
+mark lawrenson,27,crystal palace,everton,3,1,2,1
+mark lawrenson,27,bournemouth,huddersfield,4,1,1,1
+mark lawrenson,27,leicester,man city,5,1,2,0
+mark lawrenson,27,man utd,newcastle,1,0,0,2
+mark lawrenson,27,liverpool,southampton,0,2,1,1
+mark lawrenson,27,brighton,stoke,1,1,1,1
+mark lawrenson,27,burnley,swansea,1,0,0,2
+mark lawrenson,27,arsenal,tottenham,1,0,2,0
+mark lawrenson,27,watford,west ham,2,0,1,0
+mark lawrenson,28,newcastle,bournemouth,2,2,1,1
+mark lawrenson,28,man city,arsenal,0,3,0,2
+mark lawrenson,28,swansea,brighton,4,1,1,1
+mark lawrenson,28,southampton,burnley,1,1,2,1
+mark lawrenson,28,tottenham,crystal palace,0,1,0,2
+mark lawrenson,28,stoke,leicester,1,1,2,0
+mark lawrenson,28,west ham,liverpool,4,1,3,0
+mark lawrenson,28,chelsea,man utd,2,1,2,0
+mark lawrenson,28,everton,watford,1,0,1,1
+mark lawrenson,28,huddersfield,west brom,1,2,2,0
+mark lawrenson,29,arsenal,brighton,2,1,1,1
+mark lawrenson,29,everton,burnley,2,1,1,1
+mark lawrenson,29,man utd,crystal palace,2,3,0,2
+mark lawrenson,29,bournemouth,leicester,1,1,2,0
+mark lawrenson,29,newcastle,liverpool,2,0,2,0
+mark lawrenson,29,chelsea,man city,1,0,2,0
+mark lawrenson,29,stoke,southampton,0,0,2,0
+mark lawrenson,29,west ham,swansea,4,1,1,1
+mark lawrenson,29,huddersfield,tottenham,2,0,2,0
+mark lawrenson,29,west brom,watford,1,0,2,1
+mark lawrenson,30,tottenham,bournemouth,1,4,0,2
+mark lawrenson,30,watford,arsenal,3,0,3,0
+mark lawrenson,30,crystal palace,chelsea,2,1,2,0
+mark lawrenson,30,brighton,everton,2,0,2,0
+mark lawrenson,30,swansea,huddersfield,0,0,1,1
+mark lawrenson,30,liverpool,man utd,2,1,1,1
+mark lawrenson,30,southampton,newcastle,3,0,2,1
+mark lawrenson,30,man city,stoke,0,2,0,2
+mark lawrenson,30,leicester,west brom,1,4,0,2
+mark lawrenson,30,burnley,west ham,0,3,1,1
+mark lawrenson,31,west brom,bournemouth,2,1,2,1
+mark lawrenson,31,chelsea,burnley,1,2,1,1
+mark lawrenson,31,crystal palace,huddersfield,0,2,1,1
+mark lawrenson,31,watford,liverpool,5,0,2,0
+mark lawrenson,31,everton,stoke,1,2,1,1
+mark lawrenson,32,stoke,arsenal,3,0,3,0
+mark lawrenson,32,leicester,brighton,0,2,1,1
+mark lawrenson,32,tottenham,chelsea,1,3,2,0
+mark lawrenson,32,liverpool,crystal palace,1,2,1,1
+mark lawrenson,32,man city,everton,1,3,0,2
+mark lawrenson,32,swansea,man utd,2,0,2,0
+mark lawrenson,32,huddersfield,newcastle,1,0,2,0
+mark lawrenson,32,southampton,west ham,3,0,2,1
+mark lawrenson,32,bournemouth,watford,2,2,1,2
+mark lawrenson,32,burnley,west brom,1,2,1,1
+mark lawrenson,33,crystal palace,bournemouth,2,2,2,1
+mark lawrenson,33,southampton,arsenal,3,2,2,0
+mark lawrenson,33,huddersfield,brighton,1,1,2,0
+mark lawrenson,33,west ham,chelsea,1,1,2,0
+mark lawrenson,33,liverpool,everton,0,0,1,1
+mark lawrenson,33,newcastle,leicester,1,2,2,0
+mark lawrenson,33,man utd,man city,2,3,1,1
+mark lawrenson,33,tottenham,stoke,1,2,0,2
+mark lawrenson,33,burnley,watford,1,2,1,2
+mark lawrenson,33,swansea,west brom,1,1,2,1
+mark lawrenson,34,leicester,burnley,2,1,2,1
+mark lawrenson,34,brighton,crystal palace,3,2,2,1
+mark lawrenson,34,watford,huddersfield,1,0,1,1
+mark lawrenson,34,bournemouth,liverpool,3,0,2,0
+mark lawrenson,34,west brom,man utd,0,1,3,0
+mark lawrenson,34,arsenal,newcastle,2,1,1,1
+mark lawrenson,34,chelsea,southampton,2,3,1,1
+mark lawrenson,34,everton,swansea,1,1,1,1
+mark lawrenson,34,man city,tottenham,1,3,1,1
+mark lawrenson,34,stoke,west ham,1,1,2,0
+mark lawrenson,35,man utd,bournemouth,0,2,0,2
+mark lawrenson,35,west ham,arsenal,4,1,2,0
+mark lawrenson,35,tottenham,brighton,1,1,2,1
+mark lawrenson,35,newcastle,everton,1,0,2,1
+mark lawrenson,35,southampton,leicester,0,0,2,0
+mark lawrenson,35,swansea,man city,5,0,3,0
+mark lawrenson,35,burnley,stoke,1,1,1,1
+mark lawrenson,35,crystal palace,watford,0,0,1,2
+mark lawrenson,35,liverpool,west brom,2,2,1,1
+mark lawrenson,36,brighton,burnley,0,0,2,0
+mark lawrenson,36,leicester,crystal palace,5,0,1,1
+mark lawrenson,36,everton,huddersfield,0,2,1,0
+mark lawrenson,36,stoke,liverpool,0,0,2,0
+mark lawrenson,36,arsenal,man utd,2,1,2,0
+mark lawrenson,36,west brom,newcastle,0,1,2,0
+mark lawrenson,36,bournemouth,southampton,2,1,2,1
+mark lawrenson,36,chelsea,swansea,0,1,0,2
+mark lawrenson,36,watford,tottenham,2,0,2,0
+mark lawrenson,36,man city,west ham,1,4,0,2
